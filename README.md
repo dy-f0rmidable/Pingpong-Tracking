@@ -1,2 +1,2 @@
 # Pingpong-Tracking
-A small machine vision project detect and tracking pingpong using openCV library
+A small Machine Vision project of detecting and tracking pingpong using openCV library
