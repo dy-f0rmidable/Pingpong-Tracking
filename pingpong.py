@@ -1,7 +1,3 @@
-# Nguyen Dang Duy - 21146377
-# Ngo Quang Hoa - 21146
-
-
 #----------------------IMPORT THE LIBRARY------------------------#
 import numpy as np
 import cv2 as cv
